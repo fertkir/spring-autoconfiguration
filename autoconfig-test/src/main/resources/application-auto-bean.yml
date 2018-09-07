@@ -1,0 +1,4 @@
+http.client:
+  url: http://google.com
+  user: test
+  password: qwerty

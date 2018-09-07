@@ -1,0 +1,4 @@
+dependencies {
+    compile('org.springframework.boot:spring-boot-starter:2.0.4.RELEASE')
+    compile('com.example:autoconfig-library:0.0.1-SNAPSHOT')
+}

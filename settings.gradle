@@ -1,0 +1,4 @@
+rootProject.name = 'autoconfig'
+
+include 'autoconfig-library'
+include 'autoconfig-test'

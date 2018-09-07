@@ -1,0 +1,5 @@
+apply plugin: 'maven'
+
+dependencies {
+    compile("org.springframework.boot:spring-boot-starter-web:2.0.4.RELEASE")
+}
